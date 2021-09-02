@@ -6,7 +6,7 @@ setup(
     description='Module for the SE project',
     author='SE-Group39',
     packages=['SEGroup39'],
-      long_description="""\ To be updated """,
+      long_description="""To be updated """,
       classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
@@ -16,6 +16,5 @@ setup(
       ],
       license='MIT',
       
-      ],
+      ,
       )
-
