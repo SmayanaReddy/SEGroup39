@@ -1,7 +1,7 @@
 <h1>Contributing to SEGroup39 project.</h1>
 
 Greetings,<br>
-Thank you for showing your interest for contributing in our project.
+Thank you for showing interest for contributing in our project.
 
 <h2>Eligibility Criteria:</h2>
 <b>Please check if you are eligible for contributing:</b><br>
