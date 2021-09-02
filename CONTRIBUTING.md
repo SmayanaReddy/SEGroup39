@@ -37,7 +37,15 @@ By participating in this project, you are expected to adhere to the <a href="htt
 	<li>Engage the community in working toward the best possible version of the project.</li>
 	<li>Enable a sustainable system for maintainers to review contributions.</li>
 </ul>
-	
+<h3> Suggesting Enhancements </h3>
+<h4>Guidelines to submit enhancement suggestions:</h4>
+<ul>
+	<li> Use a clear and descriptive title for the issue to identify the suggestion. </li>
+	<li> Provide a step-by-step description of the suggested enhancement in as many details as possible.</li>
+	<li> Explain why this enhancement would be useful to most Atom users and isn't something that can or should be implemented as a community package. </li>
+</ul>
+All enhancement suggestions can also be discussed with the owners of the project. After the proposed changes have been reviewed and accepted, implementation of the changes can be commenced.<br><br>
+Please donot use issues to suggest enhancements. Issues are used only for the purpose of resolving bugs.
 	
 
 <h2> Attribution </h2>
