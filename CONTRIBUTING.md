@@ -30,6 +30,13 @@ By participating in this project, you are expected to adhere to the <a href="htt
 	</ul>
 
 <h3> Pull Requests </h3>
+<b>Goals of Pull Requests:</b>
+<ul>
+	<li>Maintain the project's quality.</li>
+	<li>Fix problems that are important to users.</li>
+	<li>Engage the community in working toward the best possible version of the project.</li>
+	<li>Enable a sustainable system for maintainers to review contributions.</li>
+</ul>
 	
 	
 
