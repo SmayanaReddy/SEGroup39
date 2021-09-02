@@ -14,7 +14,5 @@ setup(
         "Intended Audience :: Developers",
         "Topic :: GITS Project",
       ],
-      license='MIT',
-      
-      ,
+      license='MIT'
       )
